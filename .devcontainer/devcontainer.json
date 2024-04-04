@@ -1,0 +1,10 @@
+{
+    "name": "Codespace for Skills Rin!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
